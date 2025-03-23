@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemp2&label=Profile%20views&color=0e75b6&style=flat" alt="sayemp2" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m Skilled in **React js** , **Next js** , **Express js**
 
 - 💬 Ask me about **Front-end-development**
 
-- 📫 How to reach me **sojibulislamsaye@gmail.com**
+- 📫 How to reach me **sojibulislamsayem420@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am so Punctual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
